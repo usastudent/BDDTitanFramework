@@ -1,0 +1,670 @@
+2022-06-08 21:17:14,812 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-08 21:17:17,425 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-08 21:17:22,507 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-08 21:17:27,722 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-08 21:17:32,879 [main] INFO .\src\test\resources\input\log4j.properties - user enter cali.titans@tekschool.us and cali123
+2022-06-08 21:17:38,175 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-08 21:17:43,236 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-08 21:17:48,912 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-13 17:57:03,255 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-13 17:57:04,213 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="679e7adbe590fdb21251d27e0e66375f03cfaeb147447885bccba4565fb6192f", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-06-13 17:57:04,214 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="679e7adbe590fdb21251d27e0e66375f03cfaeb147447885bccba4565fb6192f", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-06-13 17:57:04,853 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="981f3d81822bb570ce45620bd56586a1002677567fb7bf724ec01907bc8b82b7", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-06-13 17:57:04,853 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="981f3d81822bb570ce45620bd56586a1002677567fb7bf724ec01907bc8b82b7", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-06-13 17:57:05,188 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="679e7adbe590fdb21251d27e0e66375f03cfaeb147447885bccba4565fb6192f", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-06-13 17:57:05,188 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="679e7adbe590fdb21251d27e0e66375f03cfaeb147447885bccba4565fb6192f", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-06-13 17:57:41,905 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-13 17:57:46,103 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 17:57:46,153 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 17:57:46,361 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 17:57:46,532 [main] INFO .\src\test\resources\input\log4j.properties - user enter cali.titans@tekschool.us and cali123
+2022-06-13 17:57:46,771 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 17:57:46,823 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 17:57:47,558 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-13 17:58:10,582 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-13 18:07:20,425 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-13 18:48:18,556 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-13 18:48:51,132 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-13 18:48:55,023 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 18:48:55,093 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 18:48:55,283 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 18:48:55,452 [main] INFO .\src\test\resources\input\log4j.properties - user enter cali.titans@tekschool.us and cali123
+2022-06-13 18:48:55,747 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 18:48:55,803 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 18:48:56,442 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-13 18:48:56,456 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-13 18:48:58,402 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 18:48:58,474 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 18:48:58,695 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 18:48:58,924 [main] INFO .\src\test\resources\input\log4j.properties - user enter cali.titans@tekschool.us and cali123
+2022-06-13 18:48:59,194 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 18:48:59,247 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 18:48:59,866 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-13 18:48:59,877 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-13 18:49:01,889 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 18:49:01,984 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 18:49:02,271 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 18:49:02,491 [main] INFO .\src\test\resources\input\log4j.properties - user enter cali.titans@tekschool.us and cali123
+2022-06-13 18:49:02,931 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 18:49:02,985 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 18:49:03,623 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-13 18:50:20,401 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-13 18:50:23,498 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 18:50:23,579 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 18:50:23,787 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 18:50:23,995 [main] INFO .\src\test\resources\input\log4j.properties - user enter cali.titans@tekschool.us and cali123
+2022-06-13 18:50:24,293 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 18:50:24,357 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 18:50:24,978 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-13 18:50:24,991 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-13 18:50:27,049 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 18:50:27,099 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 18:50:27,374 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 18:50:27,578 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@gmail.com and 123456
+2022-06-13 18:50:27,858 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 18:50:27,922 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 18:50:28,541 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-13 18:50:28,550 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-13 18:50:30,530 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 18:50:30,582 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 18:50:31,315 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 18:50:31,494 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@yahoo.com and 123456
+2022-06-13 18:50:31,773 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 18:50:31,828 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 18:50:32,460 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-13 18:56:18,328 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-06-13 18:56:21,334 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 18:56:21,416 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 18:56:21,660 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 18:56:21,869 [main] INFO .\src\test\resources\input\log4j.properties - user enter cali.titans@tekschool.us and cali123
+2022-06-13 18:56:22,200 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 18:56:22,255 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 18:56:22,909 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersPASSED
+2022-06-13 18:56:22,926 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-06-13 18:56:24,987 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 18:56:25,038 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 18:56:25,247 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 18:56:25,457 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@yahoo.com and 123456
+2022-06-13 18:56:25,744 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 18:56:25,806 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 18:56:26,442 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersPASSED
+2022-06-13 18:56:26,452 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-06-13 18:56:28,440 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 18:56:28,494 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 18:56:28,669 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 18:56:28,832 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@gmail.com and 123456
+2022-06-13 18:56:29,125 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 18:56:29,188 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 18:56:29,805 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersPASSED
+2022-06-13 19:03:29,719 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-13 19:03:32,528 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 19:03:32,577 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 19:03:32,777 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 19:03:32,948 [main] INFO .\src\test\resources\input\log4j.properties - user enter cali.titans@tekschool.us and cali123
+2022-06-13 19:03:33,250 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 19:03:33,311 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 19:03:33,943 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-13 19:03:33,955 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-13 19:03:35,917 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 19:03:35,986 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 19:03:36,174 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 19:03:36,352 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@gmail.com and 123456
+2022-06-13 19:03:36,670 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 19:03:36,723 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 19:03:37,372 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-13 19:03:37,382 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-13 19:03:39,388 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 19:03:39,449 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 19:03:39,652 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 19:03:39,805 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@yahoo.com and 123456
+2022-06-13 19:03:40,054 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 19:03:40,104 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 19:03:40,757 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-13 19:04:08,199 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-13 19:04:10,939 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 19:04:10,987 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 19:04:11,199 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 19:04:11,347 [main] INFO .\src\test\resources\input\log4j.properties - user enter cali.titans@tekschool.us and cali123
+2022-06-13 19:04:11,640 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 19:04:11,708 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 19:04:12,358 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-13 19:04:12,380 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-13 19:04:14,314 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 19:04:14,375 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 19:04:14,553 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 19:04:14,741 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@gmail.com and 123456
+2022-06-13 19:04:14,998 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 19:04:15,044 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 19:04:15,679 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-13 19:04:15,692 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-13 19:04:17,642 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 19:04:17,696 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 19:04:17,890 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 19:04:18,041 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@yahoo.com and 123456
+2022-06-13 19:04:18,316 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 19:04:18,380 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 19:04:18,994 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-13 19:04:19,001 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-06-13 19:04:21,032 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 19:04:21,083 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 19:04:21,275 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 19:04:21,465 [main] INFO .\src\test\resources\input\log4j.properties - user enter cali.titans@tekschool.us and cali123
+2022-06-13 19:04:21,740 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 19:04:21,798 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 19:04:22,425 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersPASSED
+2022-06-13 19:04:22,433 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-06-13 19:04:24,494 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 19:04:24,547 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 19:04:24,742 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 19:04:24,910 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@yahoo.com and 123456
+2022-06-13 19:04:25,169 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 19:04:25,227 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 19:04:25,871 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersPASSED
+2022-06-13 19:04:25,881 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-06-13 19:04:27,926 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 19:04:27,979 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 19:04:28,178 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 19:04:28,346 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@gmail.com and 123456
+2022-06-13 19:04:28,598 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 19:04:28,653 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 19:04:29,307 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersPASSED
+2022-06-13 19:05:20,141 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-13 19:05:22,977 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 19:05:23,038 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 19:05:23,244 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 19:05:23,436 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@gmail.com and 123456
+2022-06-13 19:05:23,729 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 19:05:23,786 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 19:05:24,441 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-13 19:05:24,455 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-06-13 19:05:26,371 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 19:05:26,433 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 19:05:26,644 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 19:05:26,842 [main] INFO .\src\test\resources\input\log4j.properties - user enter cali.titans@tekschool.us and cali123
+2022-06-13 19:05:27,127 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 19:05:27,164 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 19:05:27,786 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersPASSED
+2022-06-13 19:05:27,793 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-06-13 19:05:29,850 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 19:05:29,899 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 19:05:30,091 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 19:05:30,239 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@yahoo.com and 123456
+2022-06-13 19:05:30,485 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 19:05:30,522 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 19:05:31,151 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersPASSED
+2022-06-13 19:05:31,164 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-06-13 19:05:33,032 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 19:05:33,083 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 19:05:33,278 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 19:05:33,421 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@gmail.com and 123456
+2022-06-13 19:05:33,670 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 19:05:33,733 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 19:05:34,385 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersPASSED
+2022-06-13 19:06:16,277 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-13 19:06:19,251 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 19:06:19,297 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 19:06:19,498 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 19:06:19,647 [main] INFO .\src\test\resources\input\log4j.properties - user enter cali.titans@tekschool.us and cali123
+2022-06-13 19:06:19,944 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 19:06:20,001 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 19:06:20,607 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-13 19:06:20,622 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-13 19:06:22,711 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 19:06:22,763 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 19:06:22,952 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 19:06:23,120 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@gmail.com and 123456
+2022-06-13 19:06:23,411 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 19:06:23,469 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 19:06:24,098 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-13 19:06:24,112 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-13 19:06:26,143 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 19:06:26,194 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 19:06:26,382 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 19:06:26,547 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@yahoo.com and 123456
+2022-06-13 19:06:26,810 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 19:06:26,863 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 19:06:27,517 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-13 19:06:27,523 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-06-13 19:06:29,395 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 19:06:29,444 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 19:06:29,626 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 19:06:29,799 [main] INFO .\src\test\resources\input\log4j.properties - user enter cali.titans@tekschool.us and cali123
+2022-06-13 19:06:30,103 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 19:06:30,149 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 19:06:30,771 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersPASSED
+2022-06-13 19:06:30,778 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-06-13 19:06:32,820 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 19:06:32,868 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 19:06:33,060 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 19:06:33,235 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@yahoo.com and 123456
+2022-06-13 19:06:33,506 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 19:06:33,561 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 19:06:34,194 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersPASSED
+2022-06-13 19:06:34,202 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-06-13 19:06:36,162 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 19:06:36,238 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 19:06:36,691 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 19:06:36,856 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@gmail.com and 123456
+2022-06-13 19:06:37,111 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 19:06:37,168 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 19:06:37,777 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersPASSED
+2022-06-13 19:09:22,452 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-13 19:09:25,207 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 19:09:25,306 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 19:09:25,541 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 19:09:25,765 [main] INFO .\src\test\resources\input\log4j.properties - user enter cali.titans@tekschool.us and cali123
+2022-06-13 19:09:26,057 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 19:09:26,121 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 19:09:26,772 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-13 19:09:26,790 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-13 19:09:28,858 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 19:09:28,905 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 19:09:29,117 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 19:09:29,267 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@gmail.com and 123456
+2022-06-13 19:09:29,526 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 19:09:29,579 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 19:09:30,227 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-13 19:09:30,237 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-13 19:09:32,216 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 19:09:32,283 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 19:09:32,471 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 19:09:32,641 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@yahoo.com and 123456
+2022-06-13 19:09:32,919 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 19:09:32,963 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 19:09:33,593 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-13 19:09:33,602 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-06-13 19:09:35,569 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 19:09:35,635 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 19:09:35,858 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 19:09:36,030 [main] INFO .\src\test\resources\input\log4j.properties - user enter cali.titans@tekschool.us and cali123
+2022-06-13 19:09:36,321 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 19:09:36,381 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 19:09:37,017 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersPASSED
+2022-06-13 19:09:37,028 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-06-13 19:09:38,979 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 19:09:39,032 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 19:09:39,238 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 19:09:39,410 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@yahoo.com and 123456
+2022-06-13 19:09:39,654 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 19:09:39,711 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 19:09:40,365 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersPASSED
+2022-06-13 19:09:40,376 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-06-13 19:09:42,323 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 19:09:42,387 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 19:09:42,575 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 19:09:42,735 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@gmail.com and 123456
+2022-06-13 19:09:42,985 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 19:09:43,026 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 19:09:43,652 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersPASSED
+2022-06-13 19:09:43,659 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-13 19:09:45,649 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 19:09:45,698 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 19:09:45,892 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-13 19:09:46,046 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@yahoo.com and 123456
+2022-06-13 19:09:46,300 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-13 19:09:46,336 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-13 19:09:46,976 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-13 20:38:29,689 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Register to Test environment started
+2022-06-13 20:38:32,929 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 20:38:33,011 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 20:38:33,676 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Register to Test environmentUNDEFINED
+2022-06-13 20:43:58,940 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Register to Test environment started
+2022-06-13 20:44:01,964 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-13 20:44:02,011 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-13 20:44:02,647 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Register to Test environmentUNDEFINED
+2022-06-14 19:17:27,179 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Register to Test environment started
+2022-06-14 19:17:31,566 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-14 19:17:32,516 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-14 19:17:33,134 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Register Option
+2022-06-14 19:17:38,776 [main] INFO .\src\test\resources\input\log4j.properties - user filled the personal information
+2022-06-14 19:17:43,842 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on privacy Policy
+2022-06-14 19:17:49,312 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Continue Button
+2022-06-14 19:17:49,422 [main] INFO .\src\test\resources\input\log4j.properties - actual message Your Account Has Been Created! equals expected message Your Account Has Been Created!
+2022-06-14 19:17:55,134 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Register to Test environmentPASSED
+2022-06-14 19:29:19,037 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Register to Test environment started
+2022-06-14 19:29:21,911 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-14 19:29:21,973 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-14 19:29:22,406 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Register Option
+2022-06-14 19:29:27,992 [main] INFO .\src\test\resources\input\log4j.properties - user filled the personal information
+2022-06-14 19:29:33,058 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on privacy Policy
+2022-06-14 19:29:38,611 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Continue Button
+2022-06-14 19:29:38,687 [main] INFO .\src\test\resources\input\log4j.properties - actual message Your Account Has Been Created! equals expected message Your Account Has Been Created!
+2022-06-14 19:29:44,374 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Register to Test environmentPASSED
+2022-06-14 19:30:18,291 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Register to Test environment started
+2022-06-14 19:30:21,247 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-14 19:30:21,339 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-14 19:30:22,069 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Register to Test environmentFAILED
+2022-06-14 20:37:55,274 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Register to Test environment started
+2022-06-14 20:37:58,853 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-14 20:37:58,919 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-14 20:37:59,297 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Register Option
+2022-06-14 20:37:59,881 [main] INFO .\src\test\resources\input\log4j.properties - user filled the personal information
+2022-06-14 20:38:00,248 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on privacy Policy
+2022-06-14 20:38:00,689 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Continue Button
+2022-06-14 20:38:00,765 [main] INFO .\src\test\resources\input\log4j.properties - actual message Your Account Has Been Created! equals expected message Your Account Has Been Created!
+2022-06-14 20:38:01,682 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Register to Test environmentPASSED
+2022-06-14 20:42:03,858 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-14 20:42:06,793 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-14 20:42:07,521 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-14 20:42:07,750 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-14 20:42:07,983 [main] INFO .\src\test\resources\input\log4j.properties - user enter cali.titans@tekschool.us and cali123
+2022-06-14 20:42:08,280 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-14 20:42:08,345 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-14 20:42:09,227 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-14 20:42:09,243 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-14 20:42:11,303 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-14 20:42:12,045 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-14 20:42:12,270 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-14 20:42:12,436 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@gmail.com and 123456
+2022-06-14 20:42:12,715 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-14 20:42:12,778 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-14 20:42:13,647 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-14 20:42:13,664 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-14 20:42:15,622 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-14 20:42:16,273 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-14 20:42:16,509 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-14 20:42:16,680 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@yahoo.com and 123456
+2022-06-14 20:42:16,909 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-14 20:42:16,963 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-14 20:42:17,820 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-14 20:42:17,832 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-06-14 20:42:20,095 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-14 20:42:20,792 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-14 20:42:21,028 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-14 20:42:21,209 [main] INFO .\src\test\resources\input\log4j.properties - user enter cali.titans@tekschool.us and cali123
+2022-06-14 20:42:21,483 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-14 20:42:21,531 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-14 20:42:22,397 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersPASSED
+2022-06-14 20:42:22,407 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-06-14 20:42:24,486 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-14 20:42:25,146 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-14 20:42:25,373 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-14 20:42:25,533 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@yahoo.com and 123456
+2022-06-14 20:42:25,816 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-14 20:42:25,879 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-14 20:42:26,766 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersPASSED
+2022-06-14 20:42:26,776 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-06-14 20:42:28,750 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-14 20:42:29,381 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-14 20:42:29,587 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-14 20:42:29,771 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@gmail.com and 123456
+2022-06-14 20:42:30,046 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-14 20:42:30,095 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-14 20:42:30,945 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersPASSED
+2022-06-14 20:42:30,953 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-14 20:42:32,876 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-14 20:42:33,595 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-14 20:42:33,830 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-14 20:42:34,014 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@yahoo.com and 123456
+2022-06-14 20:42:34,249 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-14 20:42:34,305 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-14 20:42:35,209 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-14 20:42:35,224 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Register to Test environment started
+2022-06-14 20:42:37,154 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-14 20:42:37,860 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-14 20:42:38,226 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Register Option
+2022-06-14 20:42:38,717 [main] INFO .\src\test\resources\input\log4j.properties - user filled the personal information
+2022-06-14 20:42:39,040 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on privacy Policy
+2022-06-14 20:42:39,469 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Continue Button
+2022-06-14 20:42:39,540 [main] INFO .\src\test\resources\input\log4j.properties - actual message Your Account Has Been Created! equals expected message Your Account Has Been Created!
+2022-06-14 20:42:40,409 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Register to Test environmentPASSED
+2022-06-25 11:42:55,465 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-25 11:42:58,098 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-25 11:42:58,512 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-25 11:42:58,699 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-25 11:42:58,836 [main] INFO .\src\test\resources\input\log4j.properties - user enter cali.titans@tekschool.us and cali123
+2022-06-25 11:42:58,996 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-25 11:43:07,802 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentFAILED
+2022-06-25 11:43:07,835 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-25 11:43:09,928 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-25 11:43:10,388 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-25 11:43:10,562 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-25 11:43:11,271 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentFAILED
+2022-06-25 11:43:11,283 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-25 11:43:13,596 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-25 11:43:13,846 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-25 11:43:13,971 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-25 11:54:35,896 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-25 11:54:39,183 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-25 11:54:39,477 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-25 11:54:39,664 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-25 11:54:39,838 [main] INFO .\src\test\resources\input\log4j.properties - user enter tekstudent@gmai.com and sacramento
+2022-06-25 11:54:40,017 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-25 11:55:33,064 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-25 11:55:35,816 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-25 11:55:36,093 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-25 11:55:36,260 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-25 11:55:36,426 [main] INFO .\src\test\resources\input\log4j.properties - user enter tekstudent@gmail.com and sacramento
+2022-06-25 11:55:36,655 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-25 11:55:36,697 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-25 11:55:37,433 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-25 11:55:37,443 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-25 11:55:39,534 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-25 11:55:39,870 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-25 11:55:40,041 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-25 11:55:40,211 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@gmail.com and 123456
+2022-06-25 11:55:40,411 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-25 11:56:11,103 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentFAILED
+2022-06-25 11:56:11,103 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-25 11:56:13,560 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-25 11:56:13,764 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-25 11:56:13,941 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-25 11:56:14,086 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@yahoo.com and 123456
+2022-06-25 11:56:14,328 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-25 11:56:14,365 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-25 11:56:15,086 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-25 11:56:15,090 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-06-25 11:56:17,311 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-25 11:56:17,659 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-25 11:56:17,836 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-25 11:56:17,973 [main] INFO .\src\test\resources\input\log4j.properties - user enter cali.titans@tekschool.us and cali123
+2022-06-25 11:56:18,143 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-25 11:56:48,794 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersFAILED
+2022-06-25 11:56:48,804 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-06-25 11:56:50,929 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-25 11:56:51,159 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-25 11:56:51,333 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-25 11:56:51,497 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@yahoo.com and 123456
+2022-06-25 11:56:51,729 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-25 11:56:51,762 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-25 11:56:52,487 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersFAILED
+2022-06-25 11:56:52,491 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-06-25 11:56:54,496 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-25 11:56:54,872 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-25 11:56:55,052 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-25 11:56:55,193 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@gmail.com and 123456
+2022-06-25 11:56:55,361 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-25 11:59:06,549 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-25 11:59:09,355 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-25 11:59:09,628 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-25 11:59:09,814 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-25 11:59:09,956 [main] INFO .\src\test\resources\input\log4j.properties - user enter tekstudent@gmail.com and sacramento
+2022-06-25 11:59:10,187 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-25 11:59:10,237 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-25 11:59:10,986 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-25 11:59:10,996 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-25 11:59:13,310 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-25 11:59:13,622 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-25 11:59:13,797 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-25 11:59:13,953 [main] INFO .\src\test\resources\input\log4j.properties - user enter tekstudent@gmail.com and sacramento
+2022-06-25 11:59:14,176 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-25 11:59:14,223 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-25 11:59:14,957 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-25 11:59:14,964 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-25 11:59:17,065 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-25 11:59:17,340 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-25 11:59:17,516 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-25 11:59:17,665 [main] INFO .\src\test\resources\input\log4j.properties - user enter tekstudent@gmail.com and sacramento
+2022-06-25 11:59:17,893 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-25 11:59:17,945 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-25 11:59:18,651 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-25 11:59:18,660 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-06-25 11:59:20,779 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-25 11:59:21,130 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-25 11:59:21,294 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-25 11:59:21,450 [main] INFO .\src\test\resources\input\log4j.properties - user enter cali.titans@tekschool.us and cali123
+2022-06-25 11:59:21,637 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-25 11:59:52,351 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersFAILED
+2022-06-25 11:59:52,363 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-06-25 11:59:54,672 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-25 11:59:54,946 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-25 11:59:55,118 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-25 11:59:55,256 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@yahoo.com and 123456
+2022-06-25 11:59:55,484 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-25 11:59:55,518 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-25 11:59:56,250 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersPASSED
+2022-06-25 11:59:56,263 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-06-25 11:59:58,315 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-25 11:59:58,598 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-25 11:59:58,883 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-25 11:59:59,013 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@gmail.com and 123456
+2022-06-25 11:59:59,176 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-25 12:00:29,835 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersFAILED
+2022-06-25 12:00:29,836 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-25 12:00:31,882 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-25 12:00:32,253 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-25 12:00:32,425 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-25 12:00:32,563 [main] INFO .\src\test\resources\input\log4j.properties - user enter tekstudent@gmail.com and sacramento
+2022-06-25 12:00:32,843 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-25 12:00:32,889 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-25 12:00:33,634 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-25 12:00:33,654 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Register to Test environment started
+2022-06-25 12:00:35,663 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-25 12:00:36,065 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-25 12:00:36,516 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Register Option
+2022-06-25 12:03:58,189 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-25 12:04:01,094 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-25 12:04:01,375 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-25 12:04:01,604 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-25 12:04:01,746 [main] INFO .\src\test\resources\input\log4j.properties - user enter tekstudent@gmail.com and sacramento
+2022-06-25 12:04:02,001 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-25 12:04:02,055 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-25 12:04:02,803 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-25 12:04:31,323 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-25 12:04:33,972 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-25 12:04:34,318 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-25 12:04:34,498 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-25 12:04:34,660 [main] INFO .\src\test\resources\input\log4j.properties - user enter tekstudent@gmail.com and sacramento
+2022-06-25 12:04:34,901 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-25 12:04:34,933 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-25 12:04:35,670 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-25 12:05:03,685 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-25 12:05:06,341 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-25 12:05:06,690 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-25 12:05:06,870 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-25 12:05:06,993 [main] INFO .\src\test\resources\input\log4j.properties - user enter tekstudent@gmail.com and sacramento
+2022-06-25 12:05:07,239 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-25 12:05:07,288 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-25 12:05:08,045 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-25 12:05:40,742 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-06-25 12:05:43,657 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-25 12:05:43,963 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-25 12:05:44,160 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-25 12:05:44,310 [main] INFO .\src\test\resources\input\log4j.properties - user enter cali.titans@tekschool.us and cali123
+2022-06-25 12:05:44,530 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-25 12:06:15,274 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersFAILED
+2022-06-25 12:06:15,286 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-06-25 12:06:17,498 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-25 12:06:17,801 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-25 12:06:17,984 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-25 12:06:18,119 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@yahoo.com and 123456
+2022-06-25 12:06:18,388 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-25 12:06:18,422 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-25 12:06:19,153 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersPASSED
+2022-06-25 12:06:19,159 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-06-25 12:06:22,508 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-25 12:06:22,822 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-25 12:06:23,003 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-25 12:06:23,149 [main] INFO .\src\test\resources\input\log4j.properties - user enter test.test@gmail.com and 123456
+2022-06-25 12:06:23,328 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-25 12:09:53,888 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test Environment started
+2022-06-25 12:09:56,601 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-25 12:09:56,877 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-25 12:09:57,080 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-25 12:09:57,220 [main] INFO .\src\test\resources\input\log4j.properties - user enter tekstudent@gmail.com and sacramento
+2022-06-25 12:09:57,466 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-25 12:09:57,508 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-25 12:09:58,281 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Test EnvironmentPASSED
+2022-06-25 12:15:41,712 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-06-25 12:15:44,775 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-25 12:15:45,004 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-25 12:15:45,191 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-25 12:15:45,350 [main] INFO .\src\test\resources\input\log4j.properties - user enter tekstudent@gmail.com and sacramento
+2022-06-25 12:15:45,598 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-25 12:15:45,640 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-25 12:15:46,382 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersPASSED
+2022-06-25 12:15:46,385 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-06-25 12:15:51,905 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-25 12:15:52,168 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-25 12:15:52,417 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-25 12:15:52,569 [main] INFO .\src\test\resources\input\log4j.properties - user enter cali.tiitians@tekschool.us and cali123
+2022-06-25 12:15:52,735 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-25 12:17:58,370 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-06-25 12:18:01,951 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-25 12:18:02,260 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-25 12:18:02,454 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-25 12:18:02,626 [main] INFO .\src\test\resources\input\log4j.properties - user enter tekstudent@gmail.com and sacramento
+2022-06-25 12:18:02,858 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-25 12:18:02,899 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-25 12:18:03,662 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersPASSED
+2022-06-25 12:18:03,670 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-06-25 12:18:06,087 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-25 12:18:06,459 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-25 12:18:06,632 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-25 12:18:06,796 [main] INFO .\src\test\resources\input\log4j.properties - user enter testtek@tekschool.us and 123456
+2022-06-25 12:18:07,042 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-25 12:18:07,078 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-25 12:18:07,812 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersPASSED
+2022-06-25 12:18:07,817 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-06-25 12:18:10,362 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-25 12:18:10,603 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-25 12:18:10,793 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-25 12:18:10,945 [main] INFO .\src\test\resources\input\log4j.properties - user enter tekstudent@gmail.com and sacramento
+2022-06-25 12:18:11,209 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-25 12:18:11,240 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-06-25 12:18:12,008 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersPASSED
+2022-07-07 15:43:06,871 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-07-07 15:43:15,691 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-07-07 15:43:16,091 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-07-07 15:43:16,307 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-07-07 15:43:16,451 [main] INFO .\src\test\resources\input\log4j.properties - user enter tekstudent@gmail.com and sacramento
+2022-07-07 15:43:16,707 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-07-07 15:43:16,750 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-07-07 15:43:17,535 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersPASSED
+2022-07-07 15:43:17,546 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-07-07 15:43:19,541 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-07-07 15:43:19,976 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-07-07 15:43:20,153 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-07-07 15:43:20,285 [main] INFO .\src\test\resources\input\log4j.properties - user enter testtek@tekschool.us and 123456
+2022-07-07 15:43:20,539 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-07-07 15:43:20,571 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-07-07 15:43:21,309 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersPASSED
+2022-07-07 15:43:21,317 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-07-07 15:43:24,094 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-07-07 15:43:24,356 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-07-07 15:43:24,597 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-07-07 15:43:24,733 [main] INFO .\src\test\resources\input\log4j.properties - user enter tekstudent@gmail.com and sacramento
+2022-07-07 15:43:24,973 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-07-07 15:43:25,015 [main] INFO .\src\test\resources\input\log4j.properties - user is on My Account Page
+2022-07-07 15:43:25,748 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersPASSED
+2022-08-11 22:53:56,263 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-08-11 22:54:09,021 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-08-11 22:54:09,603 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-08-11 22:54:09,871 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-08-11 22:54:10,147 [main] INFO .\src\test\resources\input\log4j.properties - user enter tekstudent@gmail.com and sacramento
+2022-08-11 22:54:10,394 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-08-11 22:54:41,113 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersFAILED
+2022-08-11 22:54:41,131 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-08-11 22:54:44,198 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-08-11 22:54:44,957 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-08-11 22:54:45,168 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-08-11 22:54:45,420 [main] INFO .\src\test\resources\input\log4j.properties - user enter testtek@tekschool.us and 123456
+2022-08-11 22:54:45,653 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-08-11 22:54:51,576 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersFAILED
+2022-08-11 22:54:51,582 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple users started
+2022-08-11 22:54:54,276 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-08-11 22:54:55,062 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-08-11 22:54:55,309 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-08-11 22:54:55,570 [main] INFO .\src\test\resources\input\log4j.properties - user enter tekstudent@gmail.com and sacramento
+2022-08-11 22:54:55,814 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-08-11 22:55:03,355 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login with multiple usersFAILED

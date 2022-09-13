@@ -1,0 +1,394 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-08-12T05:53:56.122Z",
+        "before": [
+          {
+            "result": {
+              "duration": 12709000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDef.Initializer.beforeHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 48,
+        "name": "login with multiple users",
+        "description": "",
+        "id": "retail-test-environment;login-with-multiple-users;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 684000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDef.Initializer.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 630000000,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "User is on retail Website",
+            "match": {
+              "location": "stepDef.HomeStepDef.user_is_on_retail_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 72000000,
+              "status": "passed"
+            },
+            "line": 40,
+            "name": "User click on myAccount",
+            "match": {
+              "location": "stepDef.HomeStepDef.user_click_on_myAccount()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 268000000,
+              "status": "passed"
+            },
+            "line": 41,
+            "name": "User click on Login option",
+            "match": {
+              "location": "stepDef.HomeStepDef.user_click_on_login_option()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 274000000,
+              "status": "passed"
+            },
+            "line": 42,
+            "name": "User enter userName \"tekstudent@gmail.com\" and password \"sacramento\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"tekstudent@gmail.com\"",
+                  "offset": 20
+                },
+                {
+                  "val": "\"sacramento\"",
+                  "offset": 56
+                }
+              ],
+              "location": "stepDef.HomeStepDef.user_enter_userName_and_password(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 247000000,
+              "status": "passed"
+            },
+            "line": 43,
+            "name": "User click on login button",
+            "match": {
+              "location": "stepDef.HomeStepDef.user_click_on_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//h2[contains(text(),\u0027My Account\u0027)]\"}\n  (Session info: chrome\u003d104.0.5112.81)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027KM\u0027, ip: \u002710.0.0.248\u0027, os.name: \u0027Windows 11\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_321\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.81, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\\Users\\kazem\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49874}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: b02392f250e7bc866e0028c5840779d7\n*** Element info: {Using\u003dxpath, value\u003d//h2[contains(text(),\u0027My Account\u0027)]}\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)\r\n\tat com.sun.proxy.$Proxy18.isDisplayed(Unknown Source)\r\n\tat pageObjects.HomePage.ismyAccountValidationPresent(HomePage.java:70)\r\n\tat stepDef.HomeStepDef.user_should_be_logged_into_myAccount_page(HomeStepDef.java:58)\r\n\tat ✽.User should be logged into myAccount page(file:///D:/Tek/Framework%20Sample/us.tekschool.titans.cali.updates%20(1)/us.tekschool.titans.cali.updates/./src/test/resources/Features/Home.feature:44)\r\n",
+              "duration": 30029000000,
+              "status": "failed"
+            },
+            "line": 44,
+            "name": "User should be logged into myAccount page",
+            "match": {
+              "location": "stepDef.HomeStepDef.user_should_be_logged_into_myAccount_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@completeTest"
+          },
+          {
+            "name": "@outline"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-08-12T05:54:41.128Z",
+        "before": [
+          {
+            "result": {
+              "duration": 3002000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDef.Initializer.beforeHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 49,
+        "name": "login with multiple users",
+        "description": "",
+        "id": "retail-test-environment;login-with-multiple-users;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 638000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDef.Initializer.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 737000000,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "User is on retail Website",
+            "match": {
+              "location": "stepDef.HomeStepDef.user_is_on_retail_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 88000000,
+              "status": "passed"
+            },
+            "line": 40,
+            "name": "User click on myAccount",
+            "match": {
+              "location": "stepDef.HomeStepDef.user_click_on_myAccount()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 211000000,
+              "status": "passed"
+            },
+            "line": 41,
+            "name": "User click on Login option",
+            "match": {
+              "location": "stepDef.HomeStepDef.user_click_on_login_option()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 251000000,
+              "status": "passed"
+            },
+            "line": 42,
+            "name": "User enter userName \"testtek@tekschool.us\" and password \"123456\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"testtek@tekschool.us\"",
+                  "offset": 20
+                },
+                {
+                  "val": "\"123456\"",
+                  "offset": 56
+                }
+              ],
+              "location": "stepDef.HomeStepDef.user_enter_userName_and_password(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 233000000,
+              "status": "passed"
+            },
+            "line": 43,
+            "name": "User click on login button",
+            "match": {
+              "location": "stepDef.HomeStepDef.user_click_on_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.NoSuchElementException: Cannot locate an element using xpath\u003d//h2[contains(text(),\u0027My Account\u0027)]\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027KM\u0027, ip: \u002710.0.0.248\u0027, os.name: \u0027Windows 11\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_321\u0027\nDriver info: driver.version: RemoteWebDriver\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:327)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)\r\n\tat com.sun.proxy.$Proxy18.isDisplayed(Unknown Source)\r\n\tat pageObjects.HomePage.ismyAccountValidationPresent(HomePage.java:70)\r\n\tat stepDef.HomeStepDef.user_should_be_logged_into_myAccount_page(HomeStepDef.java:58)\r\n\tat ✽.User should be logged into myAccount page(file:///D:/Tek/Framework%20Sample/us.tekschool.titans.cali.updates%20(1)/us.tekschool.titans.cali.updates/./src/test/resources/Features/Home.feature:44)\r\n",
+              "duration": 5283000000,
+              "status": "failed"
+            },
+            "line": 44,
+            "name": "User should be logged into myAccount page",
+            "match": {
+              "location": "stepDef.HomeStepDef.user_should_be_logged_into_myAccount_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@completeTest"
+          },
+          {
+            "name": "@outline"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-08-12T05:54:51.582Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2622000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDef.Initializer.beforeHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 50,
+        "name": "login with multiple users",
+        "description": "",
+        "id": "retail-test-environment;login-with-multiple-users;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 555000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDef.Initializer.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 770000000,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "User is on retail Website",
+            "match": {
+              "location": "stepDef.HomeStepDef.user_is_on_retail_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 88000000,
+              "status": "passed"
+            },
+            "line": 40,
+            "name": "User click on myAccount",
+            "match": {
+              "location": "stepDef.HomeStepDef.user_click_on_myAccount()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 247000000,
+              "status": "passed"
+            },
+            "line": 41,
+            "name": "User click on Login option",
+            "match": {
+              "location": "stepDef.HomeStepDef.user_click_on_login_option()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 261000000,
+              "status": "passed"
+            },
+            "line": 42,
+            "name": "User enter userName \"tekstudent@gmail.com\" and password \"sacramento\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"tekstudent@gmail.com\"",
+                  "offset": 20
+                },
+                {
+                  "val": "\"sacramento\"",
+                  "offset": 56
+                }
+              ],
+              "location": "stepDef.HomeStepDef.user_enter_userName_and_password(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 243000000,
+              "status": "passed"
+            },
+            "line": 43,
+            "name": "User click on login button",
+            "match": {
+              "location": "stepDef.HomeStepDef.user_click_on_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.NoSuchElementException: Cannot locate an element using xpath\u003d//h2[contains(text(),\u0027My Account\u0027)]\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027KM\u0027, ip: \u002710.0.0.248\u0027, os.name: \u0027Windows 11\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_321\u0027\nDriver info: driver.version: RemoteWebDriver\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:327)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)\r\n\tat com.sun.proxy.$Proxy18.isDisplayed(Unknown Source)\r\n\tat pageObjects.HomePage.ismyAccountValidationPresent(HomePage.java:70)\r\n\tat stepDef.HomeStepDef.user_should_be_logged_into_myAccount_page(HomeStepDef.java:58)\r\n\tat ✽.User should be logged into myAccount page(file:///D:/Tek/Framework%20Sample/us.tekschool.titans.cali.updates%20(1)/us.tekschool.titans.cali.updates/./src/test/resources/Features/Home.feature:44)\r\n",
+              "duration": 6981000000,
+              "status": "failed"
+            },
+            "line": 44,
+            "name": "User should be logged into myAccount page",
+            "match": {
+              "location": "stepDef.HomeStepDef.user_should_be_logged_into_myAccount_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@completeTest"
+          },
+          {
+            "name": "@outline"
+          }
+        ]
+      }
+    ],
+    "name": "Retail Test Environment",
+    "description": "",
+    "id": "retail-test-environment",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/Home.feature",
+    "tags": [
+      {
+        "name": "@completeTest",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
